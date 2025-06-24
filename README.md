@@ -35,6 +35,8 @@ Support Vector Classifier (SVM with polynomial kernel)
 
 XGBoost Classifier
 
+Random  Classifier
+
 # 5-Evaluation Metrics<br>
 
 ROC AUC Score
